@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
@@ -19,6 +20,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +45,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
