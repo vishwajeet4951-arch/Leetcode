@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1207-unique-number-of-occurrences](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1207-unique-number-of-occurrences](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
