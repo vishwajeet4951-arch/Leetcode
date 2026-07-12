@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -51,6 +52,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
