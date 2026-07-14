@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0242-valid-anagram) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
