@@ -12,6 +12,7 @@
 | [0242-valid-anagram](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Math
@@ -25,6 +26,7 @@
 | [0205-isomorphic-strings](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0389-find-the-difference) |
 ## Array
 |  |
@@ -66,4 +68,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
