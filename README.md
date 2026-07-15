@@ -40,6 +40,7 @@
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1929-concatenation-of-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0383-ransom-note) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
