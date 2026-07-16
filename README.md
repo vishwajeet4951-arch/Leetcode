@@ -41,6 +41,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
