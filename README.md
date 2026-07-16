@@ -40,6 +40,7 @@
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1480-running-sum-of-1d-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
