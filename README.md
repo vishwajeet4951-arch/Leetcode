@@ -39,6 +39,7 @@
 | [0136-single-number](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
