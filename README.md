@@ -40,6 +40,7 @@
 | [0169-majority-element](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -87,10 +88,15 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vishwajeet4951-arch/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
